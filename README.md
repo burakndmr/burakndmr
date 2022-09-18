@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/burakdmr09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burakdmr09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/burak-demir-8a5410189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak demir" height="30" width="40" /></a>
-<a href="https://instagram.com/burak.demir.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burak.demir.03" height="30" width="40" /></a>
+<a href="https://www.instagram.com/burakdmr.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burak.demir.03" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCDdNshkQY13SfUZh4JgkcQg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="burak demir" height="30" width="40" /></a>
 </p>
 
