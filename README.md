@@ -19,12 +19,12 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![YAZILIM SEKTÖRÜNDE SIK SIK İŞ DEĞİŞTİRMEK MANTIKLI MI?](https://ytcards.demolab.com/?id=Jaxb0E5ez_Y&title=YAZILIM+SEKT%C3%96R%C3%9CNDE+SIK+SIK+%C4%B0%C5%9E+DE%C4%9E%C4%B0%C5%9ET%C4%B0RMEK+MANTIKLI+MI%3F&lang=en&timestamp=1674063426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "YAZILIM SEKTÖRÜNDE SIK SIK İŞ DEĞİŞTİRMEK MANTIKLI MI?")](https://www.youtube.com/watch?v=Jaxb0E5ez_Y)
 [![YAPTIĞIM EN BÜYÜK PROJE](https://ytcards.demolab.com/?id=JzS049ZVDns&title=YAPTI%C4%9EIM+EN+B%C3%9CY%C3%9CK+PROJE&lang=en&timestamp=1673201175&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "YAPTIĞIM EN BÜYÜK PROJE")](https://www.youtube.com/watch?v=JzS049ZVDns)
 [![CANLI | REACT UYGULAMASINA DEVAM](https://ytcards.demolab.com/?id=hOJbPWaECyY&title=CANLI+%7C+REACT+UYGULAMASINA+DEVAM&lang=en&timestamp=1672828988&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | REACT UYGULAMASINA DEVAM")](https://www.youtube.com/watch?v=hOJbPWaECyY)
 [![CANLI | BÜYÜK BİR REACT UYGULAMASI YAPIYORUZ](https://ytcards.demolab.com/?id=A9JdqyzrSnY&title=CANLI+%7C+B%C3%9CY%C3%9CK+B%C4%B0R+REACT+UYGULAMASI+YAPIYORUZ&lang=en&timestamp=1671697960&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | BÜYÜK BİR REACT UYGULAMASI YAPIYORUZ")](https://www.youtube.com/watch?v=A9JdqyzrSnY)
 [![CANLI | YAZILIM HAKKINDA SOHBET EDİYORUZ](https://ytcards.demolab.com/?id=CS-0rjSxoxo&title=CANLI+%7C+YAZILIM+HAKKINDA+SOHBET+ED%C4%B0YORUZ&lang=en&timestamp=1669884545&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | YAZILIM HAKKINDA SOHBET EDİYORUZ")](https://www.youtube.com/watch?v=CS-0rjSxoxo)
 [![CANLI | BÜYÜK BİR REACT UYGULAMASI YAPIYORUZ](https://ytcards.demolab.com/?id=YWhI923_m_c&title=CANLI+%7C+B%C3%9CY%C3%9CK+B%C4%B0R+REACT+UYGULAMASI+YAPIYORUZ&lang=en&timestamp=1669020501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | BÜYÜK BİR REACT UYGULAMASI YAPIYORUZ")](https://www.youtube.com/watch?v=YWhI923_m_c)
-[![ÖRNEK BİR REACT/FRONTEND MÜLAKAT DENEYİMİ](https://ytcards.demolab.com/?id=yNWCFSQxN4E&title=%C3%96RNEK+B%C4%B0R+REACT%2FFRONTEND+M%C3%9CLAKAT+DENEY%C4%B0M%C4%B0&lang=en&timestamp=1666105241&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "ÖRNEK BİR REACT/FRONTEND MÜLAKAT DENEYİMİ")](https://www.youtube.com/watch?v=yNWCFSQxN4E)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
