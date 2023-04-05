@@ -19,12 +19,7 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![DEPREM VE YAZILIM SEKTÖRÜ - REMOTE İŞLER ARTSIN | Junior'dan Senior'a Bölüm 004](https://ytcards.demolab.com/?id=EDeiQVAy410&title=DEPREM+VE+YAZILIM+SEKT%C3%96R%C3%9C+-+REMOTE+%C4%B0%C5%9ELER+ARTSIN+%7C+Junior%27dan+Senior%27a+B%C3%B6l%C3%BCm+004&lang=en&timestamp=1677339001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "DEPREM VE YAZILIM SEKTÖRÜ - REMOTE İŞLER ARTSIN | Junior'dan Senior'a Bölüm 004")](https://www.youtube.com/watch?v=EDeiQVAy410)
-[![SENIORLAR HER ŞEYİ BİLİYORLAR MI?](https://ytcards.demolab.com/?id=Px41k_72e78&title=SENIORLAR+HER+%C5%9EEY%C4%B0+B%C4%B0L%C4%B0YORLAR+MI%3F&lang=en&timestamp=1676917821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "SENIORLAR HER ŞEYİ BİLİYORLAR MI?")](https://www.youtube.com/watch?v=Px41k_72e78)
-[![HERKESE GEÇMİŞ OLSUN](https://ytcards.demolab.com/?id=j8F32cxykNc&title=HERKESE+GE%C3%87M%C4%B0%C5%9E+OLSUN&lang=en&timestamp=1676544241&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "HERKESE GEÇMİŞ OLSUN")](https://www.youtube.com/watch?v=j8F32cxykNc)
-[![JUNIOR EĞİTMEK KONUSUNDA SENIORLARIN DÜŞÜNCELERİ](https://ytcards.demolab.com/?id=FnhA_rigtsc&title=JUNIOR+E%C4%9E%C4%B0TMEK+KONUSUNDA+SENIORLARIN+D%C3%9C%C5%9E%C3%9CNCELER%C4%B0&lang=en&timestamp=1675541364&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "JUNIOR EĞİTMEK KONUSUNDA SENIORLARIN DÜŞÜNCELERİ")](https://www.youtube.com/watch?v=FnhA_rigtsc)
-[![ŞİRKETİNDEN MACBOOK İSTEMELİ MİSİN?](https://ytcards.demolab.com/?id=G6qfe4rDFnM&title=%C5%9E%C4%B0RKET%C4%B0NDEN+MACBOOK+%C4%B0STEMEL%C4%B0+M%C4%B0S%C4%B0N%3F&lang=en&timestamp=1675366617&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "ŞİRKETİNDEN MACBOOK İSTEMELİ MİSİN?")](https://www.youtube.com/watch?v=G6qfe4rDFnM)
-[![YAZILIM ŞİRKETLERİNDEN MAAŞ İSTERKEN ŞİRKETİN BÜYÜKLÜĞÜ NE KADAR ÖNEMLİDİR?](https://ytcards.demolab.com/?id=NA6biLZGdQU&title=YAZILIM+%C5%9E%C4%B0RKETLER%C4%B0NDEN+MAA%C5%9E+%C4%B0STERKEN+%C5%9E%C4%B0RKET%C4%B0N+B%C3%9CY%C3%9CKL%C3%9C%C4%9E%C3%9C+NE+KADAR+%C3%96NEML%C4%B0D%C4%B0R%3F&lang=en&timestamp=1675276116&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "YAZILIM ŞİRKETLERİNDEN MAAŞ İSTERKEN ŞİRKETİN BÜYÜKLÜĞÜ NE KADAR ÖNEMLİDİR?")](https://www.youtube.com/watch?v=NA6biLZGdQU)
+
 <!-- END YOUTUBE-CARDS -->
 
 <!--
