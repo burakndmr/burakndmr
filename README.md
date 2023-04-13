@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak Demir.</h1>
 <h2 align="center">- 🔭 I’m currently working on programming</h2>
-<h2 align="center">- 🌱 I’m currently learning React</h2>
+<h2 align="center">- 🌱 I’m currently learning React Native & Next.js</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
