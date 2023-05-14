@@ -19,12 +19,12 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=lg4a1TpyIZI&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1684050761&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=lg4a1TpyIZI)
 [![NEDEN KENDİ PROJENİ YAPMALISIN?](https://ytcards.demolab.com/?id=k75pMcHUcAs&title=NEDEN+KEND%C4%B0+PROJEN%C4%B0+YAPMALISIN%3F&lang=en&timestamp=1681638680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "NEDEN KENDİ PROJENİ YAPMALISIN?")](https://www.youtube.com/watch?v=k75pMcHUcAs)
 [![DEPREM VE YAZILIM SEKTÖRÜ - REMOTE İŞLER ARTSIN | Junior'dan Senior'a Bölüm 004](https://ytcards.demolab.com/?id=EDeiQVAy410&title=DEPREM+VE+YAZILIM+SEKT%C3%96R%C3%9C+-+REMOTE+%C4%B0%C5%9ELER+ARTSIN+%7C+Junior%27dan+Senior%27a+B%C3%B6l%C3%BCm+004&lang=en&timestamp=1677339001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "DEPREM VE YAZILIM SEKTÖRÜ - REMOTE İŞLER ARTSIN | Junior'dan Senior'a Bölüm 004")](https://www.youtube.com/watch?v=EDeiQVAy410)
 [![SENIORLAR HER ŞEYİ BİLİYORLAR MI?](https://ytcards.demolab.com/?id=Px41k_72e78&title=SENIORLAR+HER+%C5%9EEY%C4%B0+B%C4%B0L%C4%B0YORLAR+MI%3F&lang=en&timestamp=1676917821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "SENIORLAR HER ŞEYİ BİLİYORLAR MI?")](https://www.youtube.com/watch?v=Px41k_72e78)
 [![HERKESE GEÇMİŞ OLSUN](https://ytcards.demolab.com/?id=j8F32cxykNc&title=HERKESE+GE%C3%87M%C4%B0%C5%9E+OLSUN&lang=en&timestamp=1676544241&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "HERKESE GEÇMİŞ OLSUN")](https://www.youtube.com/watch?v=j8F32cxykNc)
 [![JUNIOR EĞİTMEK KONUSUNDA SENIORLARIN DÜŞÜNCELERİ](https://ytcards.demolab.com/?id=FnhA_rigtsc&title=JUNIOR+E%C4%9E%C4%B0TMEK+KONUSUNDA+SENIORLARIN+D%C3%9C%C5%9E%C3%9CNCELER%C4%B0&lang=en&timestamp=1675541364&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "JUNIOR EĞİTMEK KONUSUNDA SENIORLARIN DÜŞÜNCELERİ")](https://www.youtube.com/watch?v=FnhA_rigtsc)
+[![ŞİRKETİNDEN MACBOOK İSTEMELİ MİSİN?](https://ytcards.demolab.com/?id=G6qfe4rDFnM&title=%C5%9E%C4%B0RKET%C4%B0NDEN+MACBOOK+%C4%B0STEMEL%C4%B0+M%C4%B0S%C4%B0N%3F&lang=en&timestamp=1675366617&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "ŞİRKETİNDEN MACBOOK İSTEMELİ MİSİN?")](https://www.youtube.com/watch?v=G6qfe4rDFnM)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
