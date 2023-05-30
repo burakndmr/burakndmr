@@ -19,7 +19,12 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=lqiPgCfNutc&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1685051647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=lqiPgCfNutc)
+[![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=DiK-Y7VOaj8&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1684877704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=DiK-Y7VOaj8)
+[![NEDEN KENDİ PROJENİ YAPMALISIN?](https://ytcards.demolab.com/?id=k75pMcHUcAs&title=NEDEN+KEND%C4%B0+PROJEN%C4%B0+YAPMALISIN%3F&lang=en&timestamp=1681638680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "NEDEN KENDİ PROJENİ YAPMALISIN?")](https://www.youtube.com/watch?v=k75pMcHUcAs)
+[![DEPREM VE YAZILIM SEKTÖRÜ - REMOTE İŞLER ARTSIN | Junior'dan Senior'a Bölüm 004](https://ytcards.demolab.com/?id=EDeiQVAy410&title=DEPREM+VE+YAZILIM+SEKT%C3%96R%C3%9C+-+REMOTE+%C4%B0%C5%9ELER+ARTSIN+%7C+Junior%27dan+Senior%27a+B%C3%B6l%C3%BCm+004&lang=en&timestamp=1677339001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "DEPREM VE YAZILIM SEKTÖRÜ - REMOTE İŞLER ARTSIN | Junior'dan Senior'a Bölüm 004")](https://www.youtube.com/watch?v=EDeiQVAy410)
+[![SENIORLAR HER ŞEYİ BİLİYORLAR MI?](https://ytcards.demolab.com/?id=Px41k_72e78&title=SENIORLAR+HER+%C5%9EEY%C4%B0+B%C4%B0L%C4%B0YORLAR+MI%3F&lang=en&timestamp=1676917821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "SENIORLAR HER ŞEYİ BİLİYORLAR MI?")](https://www.youtube.com/watch?v=Px41k_72e78)
+[![HERKESE GEÇMİŞ OLSUN](https://ytcards.demolab.com/?id=j8F32cxykNc&title=HERKESE+GE%C3%87M%C4%B0%C5%9E+OLSUN&lang=en&timestamp=1676544241&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "HERKESE GEÇMİŞ OLSUN")](https://www.youtube.com/watch?v=j8F32cxykNc)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
