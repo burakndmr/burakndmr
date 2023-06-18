@@ -19,12 +19,12 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=GVqZbcJN3Mc&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1687124123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=GVqZbcJN3Mc)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=vgwn-MHJXns&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1686996181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=vgwn-MHJXns)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=bkDcZTlY4B8&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1686610293&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=bkDcZTlY4B8)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=3D1UzcmfBDQ&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1686390631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=3D1UzcmfBDQ)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=eOEtIXELQhI&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1686130413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=eOEtIXELQhI)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=nqzLzHrbUzw&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1686002072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=nqzLzHrbUzw)
-[![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=lqiPgCfNutc&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1685051647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=lqiPgCfNutc)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
