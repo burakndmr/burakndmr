@@ -19,12 +19,12 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![CANLI | HAYATA DAİR HER ŞEY VE FIRÇALAR](https://ytcards.demolab.com/?id=Z65LTu1FPFg&title=CANLI+%7C+HAYATA+DA%C4%B0R+HER+%C5%9EEY+VE+FIR%C3%87ALAR&lang=en&timestamp=1687699340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | HAYATA DAİR HER ŞEY VE FIRÇALAR")](https://www.youtube.com/watch?v=Z65LTu1FPFg)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=283yPFuwK-o&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1687687839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=283yPFuwK-o)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=Xg5TKxcGJr8&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1687639821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=Xg5TKxcGJr8)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=GVqZbcJN3Mc&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1687124123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=GVqZbcJN3Mc)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=vgwn-MHJXns&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1686996181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=vgwn-MHJXns)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=bkDcZTlY4B8&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1686610293&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=bkDcZTlY4B8)
-[![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=3D1UzcmfBDQ&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1686390631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=3D1UzcmfBDQ)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
