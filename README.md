@@ -19,8 +19,8 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=aJnfq6IujW0&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1691012715&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=aJnfq6IujW0)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=KAv9Z7lq934&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1691008594&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=KAv9Z7lq934)
-[![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=aJnfq6IujW0&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1690233760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=aJnfq6IujW0)
 [![ÜNİ TERCİHLERİ HAKKINDA MUHABBET](https://ytcards.demolab.com/?id=IU4MctBP0IU&title=%C3%9CN%C4%B0+TERC%C4%B0HLER%C4%B0+HAKKINDA+MUHABBET&lang=en&timestamp=1690277420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "ÜNİ TERCİHLERİ HAKKINDA MUHABBET")](https://www.youtube.com/watch?v=IU4MctBP0IU)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=CLvCXat1pAE&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1689758591&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=CLvCXat1pAE)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=cUbG-3rGNYc&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1689754439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=cUbG-3rGNYc)
