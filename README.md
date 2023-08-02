@@ -19,12 +19,12 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=KAv9Z7lq934&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1691008594&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=KAv9Z7lq934)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=aJnfq6IujW0&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1690233760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=aJnfq6IujW0)
 [![ÜNİ TERCİHLERİ HAKKINDA MUHABBET](https://ytcards.demolab.com/?id=IU4MctBP0IU&title=%C3%9CN%C4%B0+TERC%C4%B0HLER%C4%B0+HAKKINDA+MUHABBET&lang=en&timestamp=1690277420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "ÜNİ TERCİHLERİ HAKKINDA MUHABBET")](https://www.youtube.com/watch?v=IU4MctBP0IU)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=CLvCXat1pAE&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1689758591&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=CLvCXat1pAE)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=cUbG-3rGNYc&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1689754439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=cUbG-3rGNYc)
 [![NERELERDEYİM? NEDEN VİDEO GELMİYOR? | Ufak Bir Update Videosu](https://ytcards.demolab.com/?id=44UN78WJt2Q&title=NERELERDEY%C4%B0M%3F+NEDEN+V%C4%B0DEO+GELM%C4%B0YOR%3F+%7C+Ufak+Bir+Update+Videosu&lang=en&timestamp=1689522341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "NERELERDEYİM? NEDEN VİDEO GELMİYOR? | Ufak Bir Update Videosu")](https://www.youtube.com/watch?v=44UN78WJt2Q)
-[![CANLI | HAYATA DAİR HER ŞEY VE FIRÇALAR](https://ytcards.demolab.com/?id=Z65LTu1FPFg&title=CANLI+%7C+HAYATA+DA%C4%B0R+HER+%C5%9EEY+VE+FIR%C3%87ALAR&lang=en&timestamp=1687751321&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "CANLI | HAYATA DAİR HER ŞEY VE FIRÇALAR")](https://www.youtube.com/watch?v=Z65LTu1FPFg)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
