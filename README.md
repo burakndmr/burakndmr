@@ -19,7 +19,7 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Sohbet Muhabbet](https://ytcards.demolab.com/?id=Je7nmTLwoiA&title=Sohbet+Muhabbet&lang=en&timestamp=1692727065&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sohbet Muhabbet")](https://www.youtube.com/watch?v=Je7nmTLwoiA)
+[![Sohbet Muhabbet](https://ytcards.demolab.com/?id=Je7nmTLwoiA&title=Sohbet+Muhabbet&lang=en&timestamp=1692776652&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sohbet Muhabbet")](https://www.youtube.com/watch?v=Je7nmTLwoiA)
 [![İŞ ARARKEN AKIL SAĞLIĞINI KORUMAK | BAŞIMA GELEN OLAYLAR](https://ytcards.demolab.com/?id=kXMAWc0-TpQ&title=%C4%B0%C5%9E+ARARKEN+AKIL+SA%C4%9ELI%C4%9EINI+KORUMAK+%7C+BA%C5%9EIMA+GELEN+OLAYLAR&lang=en&timestamp=1692444004&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "İŞ ARARKEN AKIL SAĞLIĞINI KORUMAK | BAŞIMA GELEN OLAYLAR")](https://www.youtube.com/watch?v=kXMAWc0-TpQ)
 [![Sohbet Muhabbet](https://ytcards.demolab.com/?id=yMy4eY4X4wU&title=Sohbet+Muhabbet&lang=en&timestamp=1692261014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sohbet Muhabbet")](https://www.youtube.com/watch?v=yMy4eY4X4wU)
 [![CANLI | SOHBET MUHABBET](https://ytcards.demolab.com/?id=4buEvgNjYx0&title=CANLI+%7C+SOHBET+MUHABBET&lang=en&timestamp=1691742477&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SOHBET MUHABBET")](https://www.youtube.com/watch?v=4buEvgNjYx0)
