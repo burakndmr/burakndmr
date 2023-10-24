@@ -19,7 +19,7 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![SOHBET & OYUN](https://ytcards.demolab.com/?id=Hg8Y8I6Sggw&title=SOHBET+%26+OYUN&lang=en&timestamp=1698177493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SOHBET & OYUN")](https://www.youtube.com/watch?v=Hg8Y8I6Sggw)
+[![SOHBET & OYUN](https://ytcards.demolab.com/?id=Hg8Y8I6Sggw&title=SOHBET+%26+OYUN&lang=en&timestamp=1698186130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SOHBET & OYUN")](https://www.youtube.com/watch?v=Hg8Y8I6Sggw)
 [![Sohbet Muhabbet](https://ytcards.demolab.com/?id=WLeYM5J8X3Y&title=Sohbet+Muhabbet&lang=en&timestamp=1697016296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sohbet Muhabbet")](https://www.youtube.com/watch?v=WLeYM5J8X3Y)
 [![Sohbet Muhabbet](https://ytcards.demolab.com/?id=V5dO6SsxVCg&title=Sohbet+Muhabbet&lang=en&timestamp=1694666030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sohbet Muhabbet")](https://www.youtube.com/watch?v=V5dO6SsxVCg)
 [![Sohbet Muhabbet](https://ytcards.demolab.com/?id=sOPwj0Md66w&title=Sohbet+Muhabbet&lang=en&timestamp=1693295952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sohbet Muhabbet")](https://www.youtube.com/watch?v=sOPwj0Md66w)
