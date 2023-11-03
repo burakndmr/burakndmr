@@ -19,7 +19,7 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![CANLI | SOHBET & MUHABBET](https://ytcards.demolab.com/?id=G4ocFEHNBtU&title=CANLI+%7C+SOHBET+%26+MUHABBET&lang=en&timestamp=1699036530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SOHBET & MUHABBET")](https://www.youtube.com/watch?v=G4ocFEHNBtU)
+[![CANLI | SOHBET & MUHABBET](https://ytcards.demolab.com/?id=G4ocFEHNBtU&title=CANLI+%7C+SOHBET+%26+MUHABBET&lang=en&timestamp=1699046332&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SOHBET & MUHABBET")](https://www.youtube.com/watch?v=G4ocFEHNBtU)
 [![CANLI | SOHBET & MUHABBET](https://ytcards.demolab.com/?id=DW3D-oQki6U&title=CANLI+%7C+SOHBET+%26+MUHABBET&lang=en&timestamp=1698958598&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SOHBET & MUHABBET")](https://www.youtube.com/watch?v=DW3D-oQki6U)
 [![CANLI | SOHBET & MUHABBET](https://ytcards.demolab.com/?id=aO0P8pOzxVk&title=CANLI+%7C+SOHBET+%26+MUHABBET&lang=en&timestamp=1698877022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SOHBET & MUHABBET")](https://www.youtube.com/watch?v=aO0P8pOzxVk)
 [![CANLI | SOHBET & MUHABBET](https://ytcards.demolab.com/?id=FuhIbsuszCs&title=CANLI+%7C+SOHBET+%26+MUHABBET&lang=en&timestamp=1698792439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SOHBET & MUHABBET")](https://www.youtube.com/watch?v=FuhIbsuszCs)
