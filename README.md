@@ -19,12 +19,12 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![CANLI | SOHBET & MUHABBET](https://ytcards.demolab.com/?id=yVR8GlS_3SM&title=CANLI+%7C+SOHBET+%26+MUHABBET&lang=en&timestamp=1699644850&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SOHBET & MUHABBET")](https://www.youtube.com/watch?v=yVR8GlS_3SM)
+[![CANLI | SOHBET & MUHABBET](https://ytcards.demolab.com/?id=clkpFTowJfI&title=CANLI+%7C+SOHBET+%26+MUHABBET&lang=en&timestamp=1699643901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SOHBET & MUHABBET")](https://www.youtube.com/watch?v=clkpFTowJfI)
 [![CANLI | SOHBET & MUHABBET](https://ytcards.demolab.com/?id=mjOtZeJKZvM&title=CANLI+%7C+SOHBET+%26+MUHABBET&lang=en&timestamp=1699642217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SOHBET & MUHABBET")](https://www.youtube.com/watch?v=mjOtZeJKZvM)
 [![CANLI | TÜRK GENCİNE TERAPİ YAYINI!](https://ytcards.demolab.com/?id=sMck1cLc2qw&title=CANLI+%7C+T%C3%9CRK+GENC%C4%B0NE+TERAP%C4%B0+YAYINI%21&lang=en&timestamp=1699566453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | TÜRK GENCİNE TERAPİ YAYINI!")](https://www.youtube.com/watch?v=sMck1cLc2qw)
 [![SON SOHBET YAYINI?!?](https://ytcards.demolab.com/?id=yeeROROOtZ0&title=SON+SOHBET+YAYINI%3F%21%3F&lang=en&timestamp=1699312242&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SON SOHBET YAYINI?!?")](https://www.youtube.com/watch?v=yeeROROOtZ0)
 [![CANLI | SOHBET & MUHABBET](https://ytcards.demolab.com/?id=9qfZJLmkY-8&title=CANLI+%7C+SOHBET+%26+MUHABBET&lang=en&timestamp=1699222564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SOHBET & MUHABBET")](https://www.youtube.com/watch?v=9qfZJLmkY-8)
-[![CANLI | SOHBET & MUHABBET](https://ytcards.demolab.com/?id=G4ocFEHNBtU&title=CANLI+%7C+SOHBET+%26+MUHABBET&lang=en&timestamp=1699046332&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SOHBET & MUHABBET")](https://www.youtube.com/watch?v=G4ocFEHNBtU)
-[![CANLI | SOHBET & MUHABBET](https://ytcards.demolab.com/?id=DW3D-oQki6U&title=CANLI+%7C+SOHBET+%26+MUHABBET&lang=en&timestamp=1698958598&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SOHBET & MUHABBET")](https://www.youtube.com/watch?v=DW3D-oQki6U)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
