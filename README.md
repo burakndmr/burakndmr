@@ -19,12 +19,12 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![CANLI | 2023 YILINI DEĞERLENDİRİYORUZ!](https://ytcards.demolab.com/?id=lIOzjok7gkU&title=CANLI+%7C+2023+YILINI+DE%C4%9EERLEND%C4%B0R%C4%B0YORUZ%21&lang=en&timestamp=1702749943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | 2023 YILINI DEĞERLENDİRİYORUZ!")](https://www.youtube.com/watch?v=lIOzjok7gkU)
 [![CANLI | UFAK BİR MUHABBET](https://ytcards.demolab.com/?id=44mHn-9daSs&title=CANLI+%7C+UFAK+B%C4%B0R+MUHABBET&lang=en&timestamp=1702505495&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | UFAK BİR MUHABBET")](https://www.youtube.com/watch?v=44mHn-9daSs)
 [![CANLI | UFAK BİR MUHABBET](https://ytcards.demolab.com/?id=K4bVdRJ8wps&title=CANLI+%7C+UFAK+B%C4%B0R+MUHABBET&lang=en&timestamp=1702074102&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | UFAK BİR MUHABBET")](https://www.youtube.com/watch?v=K4bVdRJ8wps)
 [![TÜRK GENCİNE TERAPİ YAYINI (SOSYAL KAYGI - YALNIZ YAŞAMAK - AYRILIK)](https://ytcards.demolab.com/?id=fDrt8GQKnMA&title=T%C3%9CRK+GENC%C4%B0NE+TERAP%C4%B0+YAYINI+%28SOSYAL+KAYGI+-+YALNIZ+YA%C5%9EAMAK+-+AYRILIK%29&lang=en&timestamp=1701467594&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "TÜRK GENCİNE TERAPİ YAYINI (SOSYAL KAYGI - YALNIZ YAŞAMAK - AYRILIK)")](https://www.youtube.com/watch?v=fDrt8GQKnMA)
 [![CANLI | UFAK BİR MUHABBET](https://ytcards.demolab.com/?id=4eygDQUiFcs&title=CANLI+%7C+UFAK+B%C4%B0R+MUHABBET&lang=en&timestamp=1701069141&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | UFAK BİR MUHABBET")](https://www.youtube.com/watch?v=4eygDQUiFcs)
 [![SOSYALLEŞMEYE ÇALIŞAN BİR YAZILIMCI](https://ytcards.demolab.com/?id=i_tER9xIba0&title=SOSYALLE%C5%9EMEYE+%C3%87ALI%C5%9EAN+B%C4%B0R+YAZILIMCI&lang=en&timestamp=1700748035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SOSYALLEŞMEYE ÇALIŞAN BİR YAZILIMCI")](https://www.youtube.com/watch?v=i_tER9xIba0)
-[![CANLI | TÜRKİYEDE FREELANCER OLMAK](https://ytcards.demolab.com/?id=TEVIRNWqlHQ&title=CANLI+%7C+T%C3%9CRK%C4%B0YEDE+FREELANCER+OLMAK&lang=en&timestamp=1700424050&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | TÜRKİYEDE FREELANCER OLMAK")](https://www.youtube.com/watch?v=TEVIRNWqlHQ)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
