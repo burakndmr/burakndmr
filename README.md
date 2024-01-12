@@ -19,12 +19,12 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![REACT/NEXTJS PROJEMİZE DEVAM EDİYORUZ](https://ytcards.demolab.com/?id=qgUQUzl3Qjw&title=REACT%2FNEXTJS+PROJEM%C4%B0ZE+DEVAM+ED%C4%B0YORUZ&lang=en&timestamp=1705086333&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "REACT/NEXTJS PROJEMİZE DEVAM EDİYORUZ")](https://www.youtube.com/watch?v=qgUQUzl3Qjw)
 [![REACT/NEXTJS PROJEMİZE DEVAM EDİYORUZ](https://ytcards.demolab.com/?id=G_TwSKczzMo&title=REACT%2FNEXTJS+PROJEM%C4%B0ZE+DEVAM+ED%C4%B0YORUZ&lang=en&timestamp=1705014010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "REACT/NEXTJS PROJEMİZE DEVAM EDİYORUZ")](https://www.youtube.com/watch?v=G_TwSKczzMo)
 [![REACT/NEXTJS PROJEMİZİN TASARIMI İLE İLGİLENİYORUZ](https://ytcards.demolab.com/?id=HXXsHM4E2f8&title=REACT%2FNEXTJS+PROJEM%C4%B0Z%C4%B0N+TASARIMI+%C4%B0LE+%C4%B0LG%C4%B0LEN%C4%B0YORUZ&lang=en&timestamp=1704926253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "REACT/NEXTJS PROJEMİZİN TASARIMI İLE İLGİLENİYORUZ")](https://www.youtube.com/watch?v=HXXsHM4E2f8)
 [![REACT PROJESİNE DEVAM EDİYORUZ](https://ytcards.demolab.com/?id=lEUTnlU8Ucs&title=REACT+PROJES%C4%B0NE+DEVAM+ED%C4%B0YORUZ&lang=en&timestamp=1704840894&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "REACT PROJESİNE DEVAM EDİYORUZ")](https://www.youtube.com/watch?v=lEUTnlU8Ucs)
 [![REACT PROJESİNE DEVAM EDİYORUZ](https://ytcards.demolab.com/?id=hKEZEPHtEgA&title=REACT+PROJES%C4%B0NE+DEVAM+ED%C4%B0YORUZ&lang=en&timestamp=1704496932&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "REACT PROJESİNE DEVAM EDİYORUZ")](https://www.youtube.com/watch?v=hKEZEPHtEgA)
 [![YENİ BİR REACT PROJESİNE BAŞLAYALIM](https://ytcards.demolab.com/?id=W9ggiG2Ttuw&title=YEN%C4%B0+B%C4%B0R+REACT+PROJES%C4%B0NE+BA%C5%9ELAYALIM&lang=en&timestamp=1704317391&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "YENİ BİR REACT PROJESİNE BAŞLAYALIM")](https://www.youtube.com/watch?v=W9ggiG2Ttuw)
-[![CANLI | SANIRIM YILIN SON YAYINI](https://ytcards.demolab.com/?id=60jFym_CoFA&title=CANLI+%7C+SANIRIM+YILIN+SON+YAYINI&lang=en&timestamp=1703843737&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CANLI | SANIRIM YILIN SON YAYINI")](https://www.youtube.com/watch?v=60jFym_CoFA)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
