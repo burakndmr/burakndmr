@@ -19,7 +19,12 @@
 ### 📺 Son Yüklediğim Youtube Videolarım
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![BUGÜN SADECE SOHBET](https://ytcards.demolab.com/?id=81e_m_lUklk&title=BUG%C3%9CN+SADECE+SOHBET&lang=en&timestamp=1705741898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "BUGÜN SADECE SOHBET")](https://www.youtube.com/watch?v=81e_m_lUklk)
+[![REACT/NEXTJS PROJEMİZİ PLANLAMA/DEĞERLENDİRME](https://ytcards.demolab.com/?id=kRn8NSMw99g&title=REACT%2FNEXTJS+PROJEM%C4%B0Z%C4%B0+PLANLAMA%2FDE%C4%9EERLEND%C4%B0RME&lang=en&timestamp=1705443085&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "REACT/NEXTJS PROJEMİZİ PLANLAMA/DEĞERLENDİRME")](https://www.youtube.com/watch?v=kRn8NSMw99g)
+[![REACT/NEXTJS PROJEMİZİ PLANLAMA/DEĞERLENDİRME](https://ytcards.demolab.com/?id=_4ckl4exXC8&title=REACT%2FNEXTJS+PROJEM%C4%B0Z%C4%B0+PLANLAMA%2FDE%C4%9EERLEND%C4%B0RME&lang=en&timestamp=1705184561&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "REACT/NEXTJS PROJEMİZİ PLANLAMA/DEĞERLENDİRME")](https://www.youtube.com/watch?v=_4ckl4exXC8)
+[![REACT/NEXTJS PROJEMİZE DEVAM EDİYORUZ](https://ytcards.demolab.com/?id=qgUQUzl3Qjw&title=REACT%2FNEXTJS+PROJEM%C4%B0ZE+DEVAM+ED%C4%B0YORUZ&lang=en&timestamp=1705097231&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "REACT/NEXTJS PROJEMİZE DEVAM EDİYORUZ")](https://www.youtube.com/watch?v=qgUQUzl3Qjw)
+[![REACT/NEXTJS PROJEMİZE DEVAM EDİYORUZ](https://ytcards.demolab.com/?id=G_TwSKczzMo&title=REACT%2FNEXTJS+PROJEM%C4%B0ZE+DEVAM+ED%C4%B0YORUZ&lang=en&timestamp=1705014010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "REACT/NEXTJS PROJEMİZE DEVAM EDİYORUZ")](https://www.youtube.com/watch?v=G_TwSKczzMo)
+[![REACT/NEXTJS PROJEMİZİN TASARIMI İLE İLGİLENİYORUZ](https://ytcards.demolab.com/?id=HXXsHM4E2f8&title=REACT%2FNEXTJS+PROJEM%C4%B0Z%C4%B0N+TASARIMI+%C4%B0LE+%C4%B0LG%C4%B0LEN%C4%B0YORUZ&lang=en&timestamp=1704926253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "REACT/NEXTJS PROJEMİZİN TASARIMI İLE İLGİLENİYORUZ")](https://www.youtube.com/watch?v=HXXsHM4E2f8)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
